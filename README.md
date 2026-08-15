@@ -1,11 +1,53 @@
-<h1 align="center">Maheswar Reddy</h1> <p align="center">B.Tech CSE, Gayatri Vidya Parishad College of Engineering, Visakhapatnam</p> <p align="center"> <a href="https://linkedin.com/in/maheswar-reddy-2b466727a"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a> <a href="mailto:youremail@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a> </p>
-About
-🎓 Final-year CS undergrad building toward backend / ML engineering roles
-🛠️ Comfortable with React, FastAPI, SQL (PostgreSQL/SQLite), and the MLOps stack (MLflow, Docker)
-📚 Learning in public — projects below were built to understand a concept end-to-end, not just to check a resume box
-Projects
-Customer Churn MLOps Pipeline End-to-end pipeline for churn prediction — XGBoost model, MLflow for experiment tracking, FastAPI for serving, Streamlit for the demo UI, with automated retraining.
-Cloud Infrastructure Automation DevOps dashboard (Python, Flask, Boto3, SQLite) to provision, monitor, and manage AWS infrastructure asynchronously.
-Tech Stack
-<p> <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"> <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"> <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white"> <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"> <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white"> <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white"> <img src="https://img.shields.io/badge/SQLite-07405E?style=flat-square&logo=sqlite&logoColor=white"> <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"> <img src="https://img.shields.io/badge/MLflow-0194E2?style=flat-square&logo=mlflow&logoColor=white"> <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white"> <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white"> <img src="https://img.shields.io/badge/Matplotlib-11557C?style=flat-square&logo=python&logoColor=white"> <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white"> </p> <p align="center"> <img src="https://komarev.com/ghpvc/?username=Maheswarreddy07&color=blueviolet&style=flat-square&label=Profile+Views" /> </p>
+<h1 align="center">Maheswar Reddy</h1>
+<p align="center">B.Tech CSE, Gayatri Vidya Parishad College of Engineering, Visakhapatnam</p>
+
+<p align="center">
+  <a href="https://linkedin.com/in/maheswar-reddy-2b466727a"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="mailto:youremail@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+</p>
+
+---
+
+### About
+
+- 🎓 Final-year CS undergrad building toward backend / ML engineering roles
+- 🛠️ Comfortable with **React, FastAPI, SQL (PostgreSQL/SQLite)**, and the **MLOps stack (MLflow, Docker)**
+- 📚 Learning in public — projects below were built to understand a concept end-to-end, not just to check a resume box
+
+---
+
+### Projects
+
+- **[Customer Churn MLOps Pipeline](https://github.com/Maheswarreddy07/customer-churn-mlops)**
+  End-to-end pipeline for churn prediction — XGBoost model, MLflow for experiment tracking, FastAPI for serving, Streamlit for the demo UI, with automated retraining.
+
+- **[Cloud Infrastructure Automation](https://github.com/Maheswarreddy07/Cloud-Infrastructure-Automation)**
+  DevOps dashboard (Python, Flask, Boto3, SQLite) to provision, monitor, and manage AWS infrastructure asynchronously.
+
+---
+
+### Tech Stack
+
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white">
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white">
+  <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black">
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white">
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white">
+  <img src="https://img.shields.io/badge/SQLite-07405E?style=flat-square&logo=sqlite&logoColor=white">
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white">
+  <img src="https://img.shields.io/badge/MLflow-0194E2?style=flat-square&logo=mlflow&logoColor=white">
+  <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white">
+  <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white">
+  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=flat-square&logo=python&logoColor=white">
+  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white">
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Maheswarreddy07&color=blueviolet&style=flat-square&label=Profile+Views" />
+</p>
+
+---
+
 <p align="center"><sub>Portfolio: <a href="https://github.com/Maheswarreddy07">github.com/Maheswarreddy07</a></sub></p>
